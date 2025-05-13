@@ -12,10 +12,9 @@
 ## 📸 Screenshots
 
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/b5ed33a3-a9fe-411e-b77d-17fb53b03f74" alt="Screenshot 1" width="48%" />
-  <img src="https://github.com/user-attachments/assets/c5909f0d-ad33-4a3f-b59b-0780214d06eb" alt="Screenshot 2" width="48%" />
-</div>
+![image](https://github.com/user-attachments/assets/e273ab3c-c9b8-4fec-8d19-6366ea55ddf5)
+
+
 
 
 ## 🚀 Installation
