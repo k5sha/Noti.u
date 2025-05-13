@@ -1,0 +1,24 @@
+{
+    "name": "Noti.u",
+    "version": "0.1.0",
+   "description": "Highlight text on any webpage and get reminded about it later with random notifications.",
+    "permissions": ["storage", "tabs", "alarms", "notifications"],
+    "host_permissions": ["https://*/*"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://*/*"],
+        "js": ["contentScript.js"]
+      }
+    ],
+    "icons": {
+      "128": "assets/icon.png"
+    },
+    "action": {
+      "default_title": "Noti.u",
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
