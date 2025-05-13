@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/k5sha/Noti.u/compare/v1.2.0...v1.3.0) (2025-05-13)
+
+
+### Features
+
+* Update README.md ([3d32afe](https://github.com/k5sha/Noti.u/commit/3d32afe098829c4c68eb06ae485149ae08d80263))
+
 ## [1.2.0](https://github.com/k5sha/Noti.u/compare/v1.1.0...v1.2.0) (2025-05-13)
 
 
