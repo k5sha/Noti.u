@@ -1,6 +1,6 @@
 {
     "name": "Noti.u",
-    "version": "0.1.0",
+    "version": "1.0.1",
    "description": "Highlight text on any webpage and get reminded about it later with random notifications.",
     "permissions": ["storage", "tabs", "alarms", "notifications"],
     "host_permissions": ["https://*/*"],
